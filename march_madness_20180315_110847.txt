@@ -1,0 +1,506 @@
+=================================================================================================
+ 
+Generating bracket 1 of 1
+elo_mean: 1500
+K: 25
+elo_state: dynamic
+ 
+Calculating regular-season Elo ratings...
+All teams sorted by regular-season Elo:
+ 
+1. Virginia: 1761.413
+2. Villanova: 1728.2531
+3. Cincinnati: 1717.2147
+4. Gonzaga: 1716.062
+5. Michigan State: 1709.8884
+6. Xavier: 1705.8602
+7. Michigan: 1701.8507
+8. Kansas: 1694.3678
+9. Arizona: 1688.7167
+10. Loyola (IL): 1688.6895
+11. Houston: 1685.2453
+12. Purdue: 1684.5762
+13. Tennessee: 1679.2205
+14. St. Bonaventure: 1670.375
+15. Duke: 1665.0825
+16. Saint Mary's (CA): 1663.4515
+17. Murray State: 1662.2264
+18. Wichita State: 1661.1066
+19. South Dakota State: 1660.1779
+20. Rhode Island: 1658.6181
+21. UNC: 1655.2356
+22. New Mexico State: 1654.615
+23. Nevada: 1651.4683
+24. Buffalo: 1648.2065
+25. College of Charleston: 1642.7981
+26. North Carolina Greensboro: 1642.3549
+27. Ohio State: 1642.3221
+28. Montana: 1639.3749
+29. Bucknell: 1637.6196
+30. Old Dominion: 1637.1637
+31. Auburn: 1637.0399
+32. Vermont: 1636.5694
+33. West Virginia: 1633.9178
+34. Louisiana: 1633.6057
+35. Stephen F. Austin: 1631.5554
+36. Middle Tennessee: 1630.601
+37. Texas Tech: 1629.7508
+38. San Diego State: 1627.7847
+39. Kentucky: 1626.6212
+40. Miami (FL): 1624.0715
+41. USC: 1623.473
+42. Clemson: 1621.2725
+43. Arkansas: 1619.5271
+44. Nebraska: 1618.1641
+45. Marshall: 1614.9713
+46. Kansas State: 1611.6141
+47. Western Kentucky: 1611.5873
+48. Belmont: 1611.2829
+49. Davidson: 1607.4159
+50. Penn: 1606.6137
+51. South Dakota: 1605.7837
+52. Northeastern: 1605.4355
+53. Providence: 1605.3589
+54. UMBC: 1603.8735
+55. Boise State: 1603.5422
+56. BYU: 1601.3894
+57. Virginia Tech: 1600.1742
+58. Oregon: 1598.0459
+59. North Carolina State: 1596.2503
+60. Rider: 1596.1593
+61. Wright State: 1595.7502
+62. ETSU: 1595.0991
+63. Seton Hall: 1594.1277
+64. Texas Christian: 1591.8031
+65. Toledo: 1590.8016
+66. Utah: 1588.9568
+67. Lipscomb: 1588.7249
+68. UCLA: 1588.3297
+69. Florida: 1584.7961
+70. Penn State: 1584.771
+71. Creighton: 1582.3576
+72. Furman: 1581.8686
+73. Georgia State: 1581.6055
+74. Tulsa: 1581.0922
+75. Mississippi State: 1580.376
+76. Canisius: 1580.2481
+77. Syracuse: 1579.7777
+78. Texas A&M: 1579.6048
+79. Florida State: 1579.2873
+80. Butler: 1579.0129
+81. Wagner: 1577.8408
+82. Louisville: 1577.8325
+83. Marquette: 1576.8178
+84. Idaho: 1575.5443
+85. Memphis: 1575.355
+86. Radford: 1574.4154
+87. Missouri: 1574.039
+88. UC Davis: 1573.5531
+89. Southeastern Louisiana: 1572.3518
+90. Texas Arlington: 1571.3769
+91. Oklahoma State: 1570.2836
+92. Texas: 1570.0537
+93. Utah Valley: 1569.6465
+94. Grand Canyon: 1568.7376
+95. Northern Kentucky: 1567.8579
+96. Eastern Michigan: 1567.3379
+97. UCSB: 1567.162
+98. New Mexico: 1565.1784
+99. Fresno State: 1564.0377
+100. Harvard: 1563.4599
+101. Alabama: 1559.4154
+102. Notre Dame: 1559.3314
+103. Southern Illinois: 1557.4768
+104. Washington: 1557.2336
+105. Cal State Fullerton: 1556.9885
+106. Stanford: 1556.565
+107. Albany (NY): 1556.317
+108. Eastern Washington: 1554.9825
+109. Iona: 1554.0265
+110. Florida Gulf Coast: 1553.5402
+111. UCF: 1553.1339
+112. Baylor: 1550.5502
+113. Nicholls State: 1549.9207
+114. Northern Colorado: 1549.9051
+115. North Carolina Asheville: 1548.5649
+116. Jacksonville State: 1547.654
+117. Illinois State: 1545.5599
+118. Hofstra: 1545.3061
+119. Oklahoma: 1545.2408
+120. Maryland: 1545.0597
+121. Boston College: 1544.7527
+122. Georgia: 1543.9428
+123. Temple: 1543.269
+124. Wofford: 1543.0866
+125. Arizona State: 1541.5411
+126. Georgia Southern: 1541.3197
+127. Hartford: 1540.726
+128. William & Mary: 1540.645
+129. Colgate: 1539.4265
+130. LSU: 1537.7868
+131. Wyoming: 1537.694
+132. Alabama Birmingham: 1537.1915
+133. Weber State: 1537.0077
+134. Niagara: 1534.9081
+135. Bradley: 1534.4902
+136. UNLV: 1533.9223
+137. Colorado: 1533.0437
+138. San Francisco: 1531.7881
+139. Navy: 1528.7401
+140. Mercer: 1528.1001
+141. Ball State: 1527.048
+142. Indiana: 1526.7649
+143. Winthrop: 1525.3131
+144. Austin Peay: 1523.7987
+145. UC Irvine: 1522.9897
+146. South Carolina: 1522.9556
+147. St. Joseph's: 1522.6817
+148. Seattle: 1522.6189
+149. Saint Francis (PA): 1522.3985
+150. UTSA: 1520.9937
+151. San Diego: 1520.1685
+152. St. John's (NY): 1519.9191
+153. Portland State: 1518.6905
+154. VCU: 1517.6428
+155. Oregon State: 1517.521
+156. Fairfield: 1515.1237
+157. Wisconsin: 1514.7742
+158. Hampton: 1514.5593
+159. Saint Louis: 1511.8468
+160. Mount St. Mary's: 1511.0545
+161. Liberty: 1510.5754
+162. LIU Brooklyn: 1510.1603
+163. Yale: 1509.8263
+164. Kent State: 1509.7097
+165. Central Michigan: 1508.6286
+166. Tennessee Tech: 1507.9716
+167. Sam Houston State: 1507.2608
+168. Lehigh: 1506.7591
+169. Northern Iowa: 1505.792
+170. Oakland: 1505.0238
+171. Utah State: 1504.9102
+172. SMU: 1503.1312
+173. Denver: 1498.9063
+174. Georgetown: 1496.3977
+175. Drake: 1495.4494
+176. Western Michigan: 1495.3877
+177. Grambling: 1494.3373
+178. Central Arkansas: 1493.7256
+179. George Mason: 1493.7114
+180. Lamar: 1493.4119
+181. Missouri State: 1492.8845
+182. Texas Southern: 1492.8332
+183. Hawaii: 1491.8
+184. North Carolina A&T: 1491.7737
+185. Louisiana Monroe: 1490.3946
+186. IPFW: 1489.9668
+187. UIC: 1488.3147
+188. Evansville: 1486.9131
+189. Towson: 1485.5282
+190. Dayton: 1484.804
+191. Bethune Cookman: 1484.1927
+192. UConn: 1483.1511
+193. Troy: 1482.2211
+194. Iowa: 1479.2128
+195. Tennessee State: 1478.7534
+196. Louisiana Tech: 1477.1408
+197. Miami (OH): 1476.3244
+198. Northwestern: 1475.7964
+199. Ohio: 1474.9616
+200. George Washington: 1474.8898
+201. Charleston Southern: 1474.4287
+202. Vanderbilt: 1473.7173
+203. Boston University: 1473.3646
+204. North Carolina Central: 1472.3611
+205. Georgia Tech: 1472.3438
+206. Campbell: 1471.6478
+207. Rutgers: 1471.531
+208. Milwaukee: 1470.4159
+209. Richmond: 1469.8217
+210. Illinois: 1469.2456
+211. Manhattan: 1467.0708
+212. Iowa State: 1466.6297
+213. Minnesota: 1466.1067
+214. Southern Miss: 1466.0646
+215. Norfolk State: 1466.0169
+216. Duquesne: 1465.2968
+217. Pacific: 1465.2669
+218. Valparaiso: 1465.103
+219. Robert Morris: 1464.6542
+220. Savannah State: 1463.7987
+221. Long Beach State: 1461.9062
+222. Prairie View: 1461.2169
+223. Bowling Green State: 1460.4761
+224. St. Peter's: 1460.0581
+225. New Orleans: 1459.9609
+226. Akron: 1459.949
+227. Tulane: 1459.2157
+228. Indiana State: 1457.7123
+229. Stony Brook: 1456.7659
+230. Appalachian State: 1456.7013
+231. DePaul: 1455.7068
+232. Texas Rio Grande Valley: 1454.5735
+233. Fairleigh Dickinson: 1453.2308
+234. La Salle: 1451.8991
+235. Princeton: 1451.3235
+236. North Texas: 1451.2471
+237. Idaho State: 1451.0236
+238. North Dakota State: 1449.5139
+239. Holy Cross: 1448.8231
+240. Wake Forest: 1448.1243
+241. Cornell: 1448.1097
+242. Ole Miss: 1447.8198
+243. Abilene Christian: 1447.4749
+244. Southeast Missouri State: 1446.9984
+245. Washington State: 1446.5423
+246. Northern Illinois: 1442.0706
+247. Texas State: 1441.8123
+248. Central Connecticut: 1440.576
+249. Drexel: 1440.438
+250. Florida International: 1439.4919
+251. Western Carolina: 1439.455
+252. NJIT: 1439.4519
+253. High Point: 1438.8372
+254. St. Francis (NY): 1438.2198
+255. Southern Utah: 1438.1397
+256. Gardner Webb: 1437.6025
+257. Coastal Carolina: 1436.7988
+258. Eastern Illinois: 1436.6058
+259. Delaware: 1436.4065
+260. Jacksonville: 1436.0244
+261. North Florida: 1434.7684
+262. Loyola Marymount: 1434.4419
+263. Monmouth: 1434.2808
+264. UMass Lowell: 1433.4424
+265. Cal State Bakersfield: 1433.2705
+266. Arkansas Pine Bluff: 1432.5053
+267. UMass: 1431.2466
+268. North Carolina Wilmington: 1431.1869
+269. Air Force: 1430.7629
+270. Cleveland State: 1429.4192
+271. Santa Clara: 1429.3245
+272. North Dakota: 1428.0917
+273. Southern: 1428.0676
+274. South Alabama: 1427.1221
+275. Quinnipiac: 1426.3522
+276. East Carolina: 1421.3564
+277. UTEP: 1421.2079
+278. McNeese State: 1419.4052
+279. Brown: 1418.8636
+280. Elon: 1418.6796
+281. IUPUI: 1418.5826
+282. Western Illinois: 1416.6805
+283. Green Bay: 1416.6064
+284. South Florida: 1413.2442
+285. Oral Roberts: 1410.8062
+286. Texas A&M Corpus Christi: 1409.9538
+287. James Madison: 1407.3918
+288. Eastern Kentucky: 1407.0553
+289. Army: 1406.8908
+290. Florida Atlantic: 1406.5632
+291. Lafayette: 1406.1526
+292. Colorado State: 1405.0141
+293. UMKC: 1404.8749
+294. Arkansas State: 1400.4602
+295. Morgan State: 1400.4287
+296. Kennesaw State: 1400.0178
+297. Montana State: 1399.7027
+298. Citadel: 1398.8657
+299. Columbia: 1396.9539
+300. New Hampshire: 1388.5334
+301. Loyola (MD): 1388.4244
+302. Sacred Heart: 1387.8286
+303. Southern Illinois Edwardsville: 1387.0264
+304. Nebraska Omaha: 1386.5686
+305. University of California: 1384.4924
+306. Fordham: 1383.9232
+307. Samford: 1382.3289
+308. Pitt: 1381.5218
+309. Binghamton: 1381.4797
+310. UT Martin: 1378.9366
+311. Morehead State: 1378.6404
+312. UC Riverside: 1378.6106
+313. Portland: 1376.3756
+314. Chattanooga: 1376.1475
+315. Stetson: 1375.3299
+316. Virginia Military Institute: 1373.5589
+317. Dartmouth: 1372.6071
+318. Jackson State: 1370.0122
+319. Presbyterian: 1369.7775
+320. Cal Poly: 1365.3671
+321. Howard: 1363.7257
+322. Florida A&M: 1363.4306
+323. Alcorn State: 1360.2297
+324. South Carolina State: 1358.6881
+325. Alabama State: 1357.9886
+326. Siena: 1357.7899
+327. Rice: 1356.1551
+328. Arkansas Little Rock: 1352.4342
+329. Pepperdine: 1347.5892
+330. Marist: 1346.4623
+331. Youngstown State: 1346.334
+332. Charlotte: 1345.9227
+333. Sacramento State: 1341.7104
+334. Detroit: 1340.5267
+335. American: 1331.3633
+336. Incarnate Word: 1327.2326
+337. Longwood: 1326.2993
+338. Cal State Northridge: 1325.6748
+339. San Jose State: 1323.0465
+340. Maine: 1321.7119
+341. Northern Arizona: 1321.5231
+342. Maryland Eastern Shore: 1309.5253
+343. Northwestern State: 1309.0779
+344. Coppin State: 1305.5966
+345. South Carolina Upstate: 1302.1908
+346. Houston Baptist: 1298.9092
+347. Mississippi Valley State: 1292.3516
+348. Bryant: 1291.7208
+349. Chicago State: 1286.2004
+350. Delaware State: 1268.8383
+351. Alabama A&M: 1268.7986
+ 
+Simulating playoffs...
+ 
+Current leader: Virginia, 8.73%
+Change in top probability since last check: 91.2668%
+is_converged: 0
+ 
+Current leader: Virginia, 8.65%
+Change in top probability since last check: 0.081474%
+is_converged: 0
+ 
+Current leader: Virginia, 8.72%
+Change in top probability since last check: -0.065386%
+is_converged: 0
+ 
+Current leader: Virginia, 8.76%
+Change in top probability since last check: -0.045898%
+is_converged: 0
+ 
+Current leader: Virginia, 8.69%
+Change in top probability since last check: 0.07017%
+is_converged: 0
+ 
+Current leader: Virginia, 8.65%
+Change in top probability since last check: 0.047447%
+is_converged: 0
+ 
+Current leader: Virginia, 8.64%
+Change in top probability since last check: 0.0085021%
+is_converged: 1
+ 
+Saved: simulated 126480 playouts in 35.0199 sec, 3612 playouts/sec
+ 
+Teams sorted by probability of winning championship:
+ 
+1. Virginia: 8.64%
+2. Villanova: 6.61%
+3. Xavier: 5.05%
+4. Michigan State: 4.63%
+5. Cincinnati: 4.6%
+6. Gonzaga: 4.15%
+7. Kansas: 3.77%
+8. Purdue: 3.53%
+9. Michigan: 3.34%
+10. Loyola (IL): 2.67%
+11. Arizona: 2.64%
+12. Duke: 2.62%
+13. St. Bonaventure: 2.54%
+14. Houston: 2.53%
+15. Tennessee: 2.36%
+16. Rhode Island: 2.27%
+17. Murray State: 1.93%
+18. Wichita State: 1.91%
+19. UNC: 1.89%
+20. New Mexico State: 1.81%
+21. South Dakota State: 1.52%
+22. Nevada: 1.49%
+23. College of Charleston: 1.42%
+24. Bucknell: 1.21%
+25. Auburn: 1.2%
+26. Stephen F. Austin: 1.17%
+27. Texas Tech: 1.11%
+28. Buffalo: 1.1%
+29. West Virginia: 1.1%
+30. Ohio State: 1.06%
+31. North Carolina Greensboro: 0.97%
+32. Montana: 0.97%
+33. Arkansas: 0.95%
+34. Clemson: 0.91%
+35. Kentucky: 0.9%
+36. San Diego State: 0.89%
+37. Providence: 0.73%
+38. Marshall: 0.72%
+39. Miami (FL): 0.7%
+40. Virginia Tech: 0.69%
+41. Kansas State: 0.69%
+42. Penn: 0.65%
+43. North Carolina State: 0.64%
+44. Seton Hall: 0.58%
+45. Texas Christian: 0.58%
+46. Davidson: 0.58%
+47. UMBC: 0.47%
+48. Syracuse: 0.43%
+49. Lipscomb: 0.42%
+50. Florida: 0.41%
+51. Butler: 0.41%
+52. Florida State: 0.4%
+53. Wright State: 0.4%
+54. Texas A&M: 0.39%
+55. Missouri: 0.38%
+56. Creighton: 0.37%
+57. Radford: 0.34%
+58. Georgia State: 0.32%
+59. Alabama: 0.28%
+60. Texas: 0.26%
+61. Iona: 0.25%
+62. Cal State Fullerton: 0.22%
+63. Oklahoma: 0.18%
+64. Texas Southern: 0.05%
+ 
+Bracket solution:
+ 
+Virginia               Virginia                                                               
+Kansas State                             Virginia                                             
+Kentucky               Arizona                                                                
+Arizona                                                  Virginia                             
+Loyola (IL)            Loyola (IL)                                                            
+Tennessee                                Cincinnati                                           
+Nevada                 Cincinnati                                                             
+Cincinnati                                                               Virginia             
+Xavier                 Xavier                                                                 
+Florida State                            Xavier                                               
+South Dakota State     Gonzaga                                                                
+Gonzaga                                                  Xavier                               
+Houston                Michigan                                                               
+Michigan                                 Michigan                                             
+Providence             UNC                                                                    
+UNC                                                                                 Virginia  
+Villanova              Villanova                                                              
+Virginia Tech                            Villanova                                            
+Murray State           Murray State                                                           
+Wichita State                                            Villanova                            
+St. Bonaventure        St. Bonaventure                                                        
+Stephen F. Austin                        Purdue                                               
+Arkansas               Purdue                                                                 
+Purdue                                                                   Villanova            
+Kansas                 Kansas                                                                 
+North Carolina State                     Kansas                                               
+New Mexico State       New Mexico State                                                       
+College of Charleston                                    Michigan State                       
+Texas Christian        Michigan State                                                         
+Michigan State                           Michigan State                                       
+Rhode Island           Duke                                                                   
+Duke                                                                                          
+ 
+[Warning: Added specified worksheet.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite>activate_sheet', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 300)" style="font-weight:bold">xlswrite>activate_sheet</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',300,0)">line 300</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite/ExecuteWrite', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 266)" style="font-weight:bold">xlswrite/ExecuteWrite</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',266,0)">line 266</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 220)" style="font-weight:bold">xlswrite</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',220,0)">line 220</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('march_madness', 'C:\Users\dichter.daniel.AURORA\Desktop\march_madness\march_madness.m', 50)" style="font-weight:bold">march_madness</a> (<a href="matlab: opentoline('C:\Users\dichter.daniel.AURORA\Desktop\march_madness\march_madness.m',50,0)">line 50</a>)] 
+[Warning: Added specified worksheet.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite>activate_sheet', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 300)" style="font-weight:bold">xlswrite>activate_sheet</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',300,0)">line 300</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite/ExecuteWrite', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 266)" style="font-weight:bold">xlswrite/ExecuteWrite</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',266,0)">line 266</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xlswrite', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m', 220)" style="font-weight:bold">xlswrite</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\iofun\xlswrite.m',220,0)">line 220</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('march_madness', 'C:\Users\dichter.daniel.AURORA\Desktop\march_madness\march_madness.m', 74)" style="font-weight:bold">march_madness</a> (<a href="matlab: opentoline('C:\Users\dichter.daniel.AURORA\Desktop\march_madness\march_madness.m',74,0)">line 74</a>)] 
