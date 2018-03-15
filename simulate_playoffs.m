@@ -6,7 +6,7 @@ function simulate_playoffs(elo_state, K)
         % Repeat preceding two steps a large number of times
         % Normalize results to number of playouts to give probability of making each round
     % Down-select to a final bracket
-        % For each matchup, select the winner as the team that has the greater probability of reaching the next round
+        % For each matchup, select the winner as the team that has the greater probability of winning the championship
         
     load('teams','T')
     load('ratings_regular_season','R')
